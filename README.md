@@ -22,11 +22,11 @@ What is the scientific method?
 
 Falsification (Popper)
 
-### Design Process
+### Design
 
 What is the design process?
 
-### Qualitative and Quantitative Methods
+Integrated design
 
 ### Statistics
 
@@ -40,4 +40,10 @@ Inferential statistics (examine whether observations are reliably different comp
   - 2 types: parametric (assumed normal distributions) and non-parametric
   - T-test (parametric test between 2 groups)
   - Analysis of Variance (parametric test between 2 or more groups)
-  - 
+
+### Scientific writing
+
+- evaluating sources
+- peer review
+- typical structure of a scientific manuscript
+- citations
