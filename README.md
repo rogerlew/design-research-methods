@@ -1,5 +1,9 @@
 # design-research-methods
 
+## Course Description
+
+Design Research Methods is a graduate level course to provide students philosophical and societal context for science and design and to take students through the research process. This includes learning about the philosophy of science, falsification, the design process, and quantitative and qualitative research methods.
+
 ## Topics
 
 ### Philosophy of Science
