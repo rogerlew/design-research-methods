@@ -1,4 +1,4 @@
-# design-research-methods
+# Integrated Design Research Methods
 
 ## Course Description
 
