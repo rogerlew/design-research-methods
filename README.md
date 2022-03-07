@@ -63,3 +63,5 @@ Inferential statistics (examine whether observations are reliably different comp
   - T-test (parametric test between 2 groups)
   - Analysis of Variance (parametric test between 2 or more groups)
 
+![The San Juan Mountains are beautiful!](https://user-images.githubusercontent.com/3652906/157090100-4698fd31-b161-4d2e-84ee-764e753b785f.png "San Juan Mountains")
+
